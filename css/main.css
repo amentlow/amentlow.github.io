@@ -16,13 +16,6 @@ a {
 	font-family: 'Montserrat', serif;
 }
 
-.header a {
-	text-decoration: none; 
-	color: white; 
-	text-transform:uppercase;
-	font-weight:700;
-	font-family: 'Montserrat', serif;
-}
 
 .projects-button {
 	margin-top:100px;
@@ -388,13 +381,20 @@ body, html {
 /*  display: block;*/
 /*  position: relative;*/
   color: #FFF;
-  font-family: "Ek Mukta", sans-serif;
-  font-weight: 100;
+/*  font-family: "Ek Mukta", sans-serif;*/
+  
   text-decoration: none;
-  font-size: 22px;
-  line-height: 2.35;
-  font-weight: 200;
+  font-size: 20px;
+  line-height: 2.5;
+ 
   width: 100%;
+  /*
+text-decoration: none;
+color: white;*/
+
+font-weight:700;
+font-family: 'Montserrat', serif;
+
 }
 .window .header.menu-opened {
   height: 100%;
