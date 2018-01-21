@@ -3,7 +3,7 @@
 a {
 	text-decoration:none;
 	color:white;
-}
+} 
 .uppercase {
     text-transform: uppercase;
 }
@@ -424,7 +424,6 @@ font-family: 'Montserrat', serif;
   display: none;
 }
 .window .content h2 {
-  margin-bottom: 0px;
   letter-spacing: 1px;
 }
 
@@ -453,7 +452,11 @@ font-family: 'Montserrat', serif;
 }
 
 
-
+.email-icon {
+	width:15%;
+	margin:40px auto;
+	display:block;
+}
 .window .content > img:nth-of-type(2) {
   margin: 75px auto;
 }
