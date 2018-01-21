@@ -466,7 +466,8 @@ font-family: 'Montserrat', serif;
           transition-delay: 0.3s;
 }*/
 .window .content {
-
+	
+    margin-top:50px;
   font-family: "Ek Mukta", sans-serif;
   color:#fff;
   margin-bottom:200px;
@@ -486,7 +487,7 @@ font-family: 'Montserrat', serif;
 #main-logo {
     width: 100%;
  
-    margin-top:50px;
+
     -moz-transition: all 5s ease-out;
     -o-transition: all 5s ease-out;
     -webkit-transition: all 5s ease-out;
