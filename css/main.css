@@ -400,6 +400,7 @@ font-family: 'Montserrat', serif;
 .window .header.menu-opened {
   height: 100%;
   opacity:1;
+  z-index:99999;
   background-color: #000;
   -webkit-transition: all 0.3s ease-in, background 0.5s ease-in;
   transition: all 0.3s ease-in, background 0.5s ease-in;
