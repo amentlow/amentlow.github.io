@@ -1,25 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Выставка BMW TATE LIVE 2018"
 date:   2018-01-08 17:47:18 +0300
-categories: jekyll update
+categories: bmw
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+<p class="condensed-font" ><img src="/assets/img/bmwblue.jpg"  style="margin-left:40px;float:right;">
+В марте 2018 года в уникальном андерграундном пространстве Tanks британской галереи современного искусства Tate Modern пройдет вторая ежегодная выставка BMW Tate Live. Хедлайнером нового сезона станет пионер перформанса Джоан Джонас, масштабная экспозиция произведений которой будет представлена и на верхних этажах галереи. В течение десяти дней и шести ночей организаторы выставки BMW Tate Live 2018 покажут гостям перформансы и инсталляции талантливой художницы, включая и самые новаторские работы, не выставлявшиеся на протяжении 40 лет. Знакомство с творчеством Джонас пройдет в формате диалога с целой когортой деятелей искусства разных поколений, таких как Джейсон Моран, Марк Леки, Сильвия Паласиос Уитман и Джумана Эмиль Аббуд, которые продемонстрируют мощное влияние ее богатого наследия на концептуальных художников современности.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+«Мы рады нашему долгосрочному сотрудничеству с галереей Tate Modern, особенно в свете развития проекта BMW Tate Live, который в прошлом году обрел новый формат, благосклонно воспринятый публикой. Вдвойне приятно, что среди современных художников-перформансистов, которых мы увидим на выставке в марте следующего года, центральное место займет Джоан Джонас, принимавшая участие в одном из «живых выступлений» в рамках нашей программы BMW Tate Live Performance Room в 2013 году. Нам не терпится снова объединить усилия с галереей Tate в следующем году, чтобы создать очередное незабываемое событие», – комментирует Грэм Грив, главный исполнительный директор BMW Group в Великобритании и Ирландии.</p>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
