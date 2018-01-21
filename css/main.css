@@ -205,8 +205,9 @@ h2 {
 
 html {
 		position:relative;
-	/*	 margin-bottom:300px;
-		   min-height: 100%;*/
+		 min-height: 100%;
+/*		 margin-bottom:300px;*/
+
 }
 
 
@@ -217,11 +218,10 @@ body, html {
    padding:0;
 
 }
-/*
-.test {
-	  position: relative;
-}*/
 
+body {
+	  background-color:#242424;
+}
 
 .window {
     margin: 0;
@@ -233,7 +233,7 @@ body, html {
 
   -webkit-box-shadow: 0 0 65px 15px rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 65px 15px rgba(0, 0, 0, 0.2);
-  overflow: hidden;
+/*  overflow: hidden;*/
 
   
 }
@@ -471,7 +471,7 @@ font-family: 'Montserrat', serif;
   font-family: "Ek Mukta", sans-serif;
   color:#fff;
   margin-bottom:200px;
-  background-color:#242424;
+
   text-align: justify;
   overflow: scroll;
 
