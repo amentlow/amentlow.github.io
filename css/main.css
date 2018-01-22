@@ -18,7 +18,7 @@ a {
 
 .bmw-darklight-menu {
 	text-align:center; 
-	margin-top:80px;
+	margin-top:40px;
 }
 
 .projects-button {
@@ -334,8 +334,8 @@ body {
 .window .header ul.menu li.menu-item a {
   color: #FFF;
   text-decoration: none;
-  font-size: 20px;
-  line-height: 2.5;
+  font-size: 24px;
+  line-height: 2.2;
  
   width: 100%;
 
@@ -347,6 +347,8 @@ font-family: 'Montserrat', serif;
 
 	
 .window .header.menu-opened {
+
+ 
   height: 100%;
   opacity:1;
   z-index:99999;
@@ -492,7 +494,11 @@ font-family: 'Montserrat', serif;
 	}
 }
 
-
+@media (min-width: 500px) { 
+	.bmw-darklight-menu {
+		display:none;
+	}
+}
 
 @media (max-width: 700px) {
 	.projects-button {
