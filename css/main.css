@@ -363,6 +363,16 @@ font-family: 'Montserrat', serif;
           transform: rotate(90deg);
 }
 
+.window .header ul.menu li.menu-item a:hover {
+	opacity:0.8;
+	color:#242424;
+}
+.window .header.menu-opened ul.menu li.menu-item a:hover {
+	opacity:0.7;
+color:Cornsilk;
+}
+
+
 .window .header.menu-opened .burger-container #burger .bar {
   -webkit-transition: all 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
   transition: all 0.4s cubic-bezier(0.4, 0.01, 0.165, 0.99);
