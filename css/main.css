@@ -85,6 +85,7 @@ a {
 	
 	border: 8px solid white;
 }
+
 .service-circle:hover img{ 
 	opacity:0.6;
 	transition: 0.2s ease;
