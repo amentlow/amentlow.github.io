@@ -1,5 +1,29 @@
 @import url(https://fonts.googleapis.com/css?family=Ek+Mukta:200);
 
+
+
+.contact-info-container {
+	width:100%;
+	height:auto;
+	padding:1%;
+}
+.adress-text {
+    margin-left:2%;
+   float:left; 
+   height:40px;
+   width:40%;
+}
+
+.form-style-6{
+	
+    font: 95% Arial, Helvetica, sans-serif;
+    max-width: 550px;
+    margin: 60px auto;
+    padding: 16px;
+    background: #F7F7F7;
+}
+
+
 a {
 	text-decoration:none;
 	color:white;
@@ -536,13 +560,7 @@ color:Cornsilk;
 
 
 
-.form-style-6{
-    font: 95% Arial, Helvetica, sans-serif;
-    max-width: 550px;
-    margin: 60px auto;
-    padding: 16px;
-    background: #F7F7F7;
-}
+
 
 .form-style-6 h1{
     background: #3eb5f1;
