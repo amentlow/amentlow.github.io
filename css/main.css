@@ -7,8 +7,21 @@
     padding: 0;
     margin: 0;
     list-style: none;
-  
-/*
+	width:100%;
+	height:auto;
+
+}
+
+
+.adress-info {
+
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+	
     -webkit-flex-direction: row;
      flex-direction: row;
      -webkit-align-items: center;
@@ -18,31 +31,16 @@
 	 flex-wrap:  wrap ;
 
 
-
-    -ms-box-orient: horizontal;
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: flex;
-*/
-	width:100%;
-	height:auto;
-
-}
-.adress-info {
-	
 }
 
 .adress-text {
-	width:40%; 
+	width:500px; 
 /*	margin-right:50px;*/
 }
 
 .form-style-6{
-	width:50%;
-	   float:right; 
+	width:500px;
+/*	   float:right; */
     font: 95% Arial, Helvetica, sans-serif;
 /*    max-width: 550px;*/
 /*    margin: 60px auto;*/
