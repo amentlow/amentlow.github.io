@@ -3,22 +3,49 @@
 
 
 .contact-info-container {
+	
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  
+/*
+    -webkit-flex-direction: row;
+     flex-direction: row;
+     -webkit-align-items: center;
+     align-items: center;
+     -webkit-justify-content: space-around;
+     justify-content: space-around;
+	 flex-wrap:  wrap ;
+
+
+
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+*/
 	width:100%;
 	height:auto;
-	padding:1%;
+
 }
+.adress-info {
+	
+}
+
 .adress-text {
-    margin-left:2%;
-   float:left; 
-   height:40px;
-   width:40%;
+	width:40%; 
+/*	margin-right:50px;*/
 }
 
 .form-style-6{
-	
+	width:50%;
+	   float:right; 
     font: 95% Arial, Helvetica, sans-serif;
-    max-width: 550px;
-    margin: 60px auto;
+/*    max-width: 550px;*/
+/*    margin: 60px auto;*/
     padding: 16px;
     background: #F7F7F7;
 }
@@ -535,6 +562,8 @@ color:Cornsilk;
 	}
 }
 
+
+
 @media (max-width: 700px) {
 	.projects-button {
 	    font-size: 0.8em;
@@ -592,9 +621,9 @@ color:Cornsilk;
     -moz-box-sizing: border-box;
     width: 100%;
     background: #fff;
-    margin-bottom: 4%;
+    margin-bottom: 15px;
     border: 1px solid #ccc;
-    padding: 3%;
+    padding: 15px;
     color: #555;
     font: 95% Arial, Helvetica, sans-serif;
 }
@@ -610,7 +639,7 @@ color:Cornsilk;
 .form-style-6 select:focus
 {
     box-shadow: 0 0 5px #43D1AF;
-    padding: 3%;
+    padding: 15px;
     border: 1px solid #43D1AF;
 }
 
@@ -620,7 +649,7 @@ color:Cornsilk;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     width: 100%;
-    padding: 3%;
+    padding: 15px;
     background: #3eb5f1;
     border-bottom: 2px solid #30C29E;
     border-top-style: none;
