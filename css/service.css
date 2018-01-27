@@ -1,0 +1,227 @@
+.service-circle {
+   display:block;
+   text-align: center;	   
+   font-size: 0em;	   
+   /*   font: 0/0 a;*/  
+   margin:35px;		 
+   width: 200px;
+   height: 200px;
+   background: transparent;
+   border: 8px solid #3eb5f1;
+    opacity: 0.95;
+    border-radius: 200px ;
+    -moz-border-radius: 200px ;
+    -webkit-border-radius: 200px;
+	transition: 0.2s ease;
+}
+
+.service-circle:hover { 
+	transition: 0.2s ease;
+	border: 8px solid white;
+}
+
+.service-circle:hover img{ 
+	opacity:0.6;
+	transition: 0.2s ease;
+}
+
+.service-circle::before { 
+    content: ' ';
+     display: inline-block;
+     vertical-align: middle;
+     height: 100%;
+}
+
+.service-circle::after { 
+    content: 'Запчасти';
+	font-size:24px;
+	padding-top:13%;
+     display: block;
+     vertical-align: bottom;
+
+}
+
+.service-circle img {
+    vertical-align: middle;
+    display: inline-block;
+	opacity:1;
+	transition: 0.2s ease;
+}
+
+
+
+
+
+
+
+.service-circle2 {
+   display:block;
+   text-align: center;	   
+   font-size: 0em;	   
+   /*   font: 0/0 a;*/  
+   margin:35px;		 
+   width: 200px;
+   height: 200px;
+   background: transparent;
+   border: 8px solid #3eb5f1;
+    opacity: 0.95;
+    border-radius: 200px ;
+    -moz-border-radius: 200px ;
+    -webkit-border-radius: 200px;
+	transition: 0.2s ease;
+}
+
+.service-circle2:hover { 
+	transition: 0.2s ease;
+	border: 8px solid white;
+}
+
+.service-circle2:hover img{ 
+	opacity:0.6;
+	transition: 0.2s ease;
+}
+
+.service-circle2::before { 
+    content: ' ';
+     display: inline-block;
+     vertical-align: middle;
+     height: 100%;
+}
+
+.service-circle2::after { 
+    content: 'Сервис';
+	font-size:24px;
+	padding-top:13%;
+     display: block;
+     vertical-align: bottom;
+
+}
+
+.service-circle2 img {
+    vertical-align: middle;
+    display: inline-block;
+	opacity:1;
+	transition: 0.2s ease;
+}
+
+
+
+
+
+
+
+
+
+
+.service-circle3 {
+   display:block;
+   text-align: center;	   
+   font-size: 0em;	   
+   /*   font: 0/0 a;*/  
+   margin:35px;		 
+   width: 200px;
+   height: 200px;
+   background: transparent;
+   border: 8px solid #3eb5f1;
+    opacity: 0.95;
+    border-radius: 200px ;
+    -moz-border-radius: 200px ;
+    -webkit-border-radius: 200px;
+	transition: 0.2s ease;
+}
+
+.service-circle3:hover { 
+	transition: 0.2s ease;
+	border: 8px solid white;
+}
+
+.service-circle3:hover img{ 
+	opacity:0.6;
+	transition: 0.2s ease;
+}
+
+.service-circle3::before { 
+    content: ' ';
+     display: inline-block;
+     vertical-align: middle;
+     height: 100%;
+}
+
+.service-circle3::after { 
+    content: 'Диагностика';
+	font-size:24px;
+	padding-top:13%;
+     display: block;
+     vertical-align: bottom;
+
+}
+
+.service-circle3 img {
+    vertical-align: middle;
+    display: inline-block;
+	opacity:1;
+	transition: 0.2s ease;
+}
+
+
+
+
+
+
+
+
+
+
+.service-circle4 {
+   display:block;
+   text-align: center;	   
+   font-size: 0em;	   
+   /*   font: 0/0 a;*/  
+   margin:35px;		 
+   width: 200px;
+   height: 200px;
+   background: transparent;
+   border: 8px solid #3eb5f1;
+    opacity: 0.95;
+    border-radius: 200px ;
+    -moz-border-radius: 200px ;
+    -webkit-border-radius: 200px;
+	transition: 0.2s ease;
+}
+
+.service-circle4:hover { 
+	transition: 0.2s ease;
+	border: 8px solid white;
+}
+
+.service-circle4:hover img{ 
+	opacity:0.6;
+	transition: 0.2s ease;
+}
+
+.service-circle4::before { 
+    content: ' ';
+     display: inline-block;
+     vertical-align: middle;
+     height: 100%;
+}
+
+.service-circle4::after { 
+    content: 'Программирование';
+	font-size:24px;
+	padding-top:13%;
+     display: block;
+     vertical-align: bottom;
+
+}
+
+.service-circle4 img {
+    vertical-align: middle;
+    display: inline-block;
+	opacity:1;
+	transition: 0.2s ease;
+}
+
+
+
+

@@ -1,20 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Ek+Mukta:200);
 
-
-
-.contact-info-container {
-	
+.contact-info-container {	
     padding: 0;
     margin: 0;
     list-style: none;
 	width:100%;
 	height:auto;
-
 }
 
-
 .adress-info {
-
     display: -webkit-box;
     display: -moz-box;
     display: -ms-flexbox;
@@ -29,8 +23,6 @@
      -webkit-justify-content: space-around;
      justify-content: space-around;
 	 flex-wrap:  wrap ;
-
-
 }
 
 .adress-text {
@@ -112,63 +104,13 @@ a {
 	margin-right:25px;
 	margin-bottom:15px;
 }
-.service-circle {
-   display:block;
-   text-align: center;	   
-   font-size: 0em;	   
-   /*   font: 0/0 a;*/  
-   margin:35px;		 
-   width: 200px;
-   height: 200px;
-   background: transparent;
-   border: 8px solid #3eb5f1;
-    opacity: 0.95;
-    border-radius: 200px ;
-    -moz-border-radius: 200px ;
-    -webkit-border-radius: 200px;
-	transition: 0.2s ease;
-}
 
-.service-circle:hover { 
-	transition: 0.2s ease;
-	
-	border: 8px solid white;
-}
-
-.service-circle:hover img{ 
-	opacity:0.6;
-	transition: 0.2s ease;
-}
-
-.service-circle::before { 
-    content: ' ';
-     display: inline-block;
-     vertical-align: middle;
-     height: 100%;
-	 
-}
-
-.service-circle::after { 
-    content: 'Запчасти';
-	font-size:26px;
-	padding-top:13%;
-     display: block;
-     vertical-align: bottom;
-
-}
-
-.service-circle img {
-    vertical-align: middle;
-    display: inline-block;
-	opacity:1;
-	transition: 0.2s ease;
-}
 
 .column {
     flex: 1;
- display: flex;
- align-items: center;
- justify-content: center;
+	 display: flex;
+	 align-items: center;
+	 justify-content: center;
     box-sizing: border-box;
 }
 
