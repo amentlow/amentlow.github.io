@@ -518,6 +518,12 @@ color:Cornsilk;
 
 
 @media (max-width: 700px) {
+	
+	.email-icon {
+		width:40%;
+
+	}
+	
 	.projects-button {
 	    font-size: 0.8em;
 	}
