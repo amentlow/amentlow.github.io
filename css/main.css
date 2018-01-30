@@ -8,6 +8,7 @@
 	height:auto;
 }
 
+
 .adress-info {
     display: -webkit-box;
     display: -moz-box;
@@ -157,6 +158,18 @@ a {
 .gamma-ultra-small {
     font-size: 16px;
 }
+
+.description-text {
+	
+	margin-left:20px;
+		margin-right:20px;
+	margin-top:0px;
+		margin-bottom:0px;
+	line-height:26px;
+	text-align:left;
+    font-size: 16px;
+}
+
 h1,h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 
 h2 {
