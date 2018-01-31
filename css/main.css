@@ -615,10 +615,7 @@ color:Cornsilk;
     width: 100%;
     padding: 15px;
     background: #3eb5f1;
-    border-bottom: 2px solid #30C29E;
-    border-top-style: none;
-    border-right-style: none;
-    border-left-style: none;    
+	border-style: none;    
     color: #fff;
 	font-size:1em;
 }
