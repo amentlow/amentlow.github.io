@@ -125,6 +125,9 @@ a {
     order: 3;
 }
 
+.lucky-text {
+	display:inline;
+}
 .seperator-bottom:after {
     content: '';
     display: block;
@@ -518,7 +521,9 @@ color:Cornsilk;
 
 
 @media (max-width: 700px) {
-	
+	.lucky-text {
+		display:block;
+	}
 	.email-icon {
 		width:40%;
 
