@@ -7,7 +7,26 @@
 	width:100%;
 	height:auto;
 }
-
+.service-image {
+	display:block;
+	margin:20px;
+}
+.adress-info2 {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+	
+    -webkit-flex-direction: row;
+     flex-direction: row;
+     -webkit-align-items: center;
+     align-items: center;
+     -webkit-justify-content: center;
+     justify-content: center;
+	 flex-wrap:  wrap ;
+}
 
 .adress-info {
     display: -webkit-box;
@@ -520,8 +539,23 @@ color:Cornsilk;
 }
 
 
+.email-icon.service {
+	display:none;
+}
+
+@media (max-width: 1050px) {
+	.email-icon.service {
+		display:block;
+	}
+	
+	.service-image {
+				display:none;
+	}
+}
+
 
 @media (max-width: 700px) {
+	
 	.lucky-text {
 		display:block;
 	}
