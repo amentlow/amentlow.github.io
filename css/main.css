@@ -11,6 +11,7 @@
 	display:block;
 	margin:20px;
 }
+
 .adress-info2 {
     display: -webkit-box;
     display: -moz-box;
@@ -21,8 +22,10 @@
 	
     -webkit-flex-direction: row;
      flex-direction: row;
-     -webkit-align-items: center;
-     align-items: center;
+	 
+     -webkit-align-items: flex-start;
+     align-items:flex-start;
+	 
      -webkit-justify-content: center;
      justify-content: center;
 	 flex-wrap:  wrap ;
