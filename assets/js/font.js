@@ -1,0 +1,2 @@
+var htmlEl=document.getElementsByTagName('html')[0];if(document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#BasicStructure","1.1")){htmlEl.className+=' svg';}
+WebFontConfig={google:{families:['Karla:400,700,400italic,700italic:latin','Montserrat:400,700:latin']}};(function(){var e=document.createElement("script");e.src=("https:"==document.location.protocol?"https":"http")+"://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js";e.type="text/javascript";e.async="true";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()

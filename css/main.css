@@ -50,15 +50,11 @@
 
 .adress-text {
 	width:550px; 
-/*	margin-right:50px;*/
 }
 
 .form-style-6{
 	width:500px;
-/*	   float:right; */
     font: 95% Arial, Helvetica, sans-serif;
-/*    max-width: 550px;*/
-/*    margin: 60px auto;*/
     padding: 16px;
     background: #F7F7F7;
 }
@@ -184,17 +180,7 @@ a {
     font-size: 16px;
 }
 
-/*.description-text {
 
-	margin-left:20px;
-		margin-right:20px;
-	margin-top:0px;
-		margin-bottom:0px;
-	line-height:26px;
-	text-align:left;
-    font-size: 16px;
-}
-*/
 
 h1,h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 
@@ -255,18 +241,8 @@ body {
   background-color: #3eb5f1;
   overflow: hidden;
   z-index: 1;
-  
-  
-  
   -webkit-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
-  
-    
-  /*-webkit-transition: all 0.5s ease-out, background 1s ease-out;
-  transition: all 0.5s ease-out, background 1s ease-out;*/
-  
-/*  -webkit-transition-delay: 0.2s;*/
-/*  transition-delay: 0.2s;*/
 }
 
 
@@ -286,6 +262,7 @@ body {
           user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
+
 .window .header .burger-container #burger {
   width: 18px;
   height: 8px;
@@ -313,7 +290,6 @@ body {
   -webkit-transform: translateY(6px) rotate(0deg);
           transform: translateY(6px) rotate(0deg);
 }
-
 
 
 .window .header ul.menu {
@@ -378,8 +354,6 @@ font-family: 'Montserrat', serif;
 
 	
 .window .header.menu-opened {
-
- 
   height: 100%;
   opacity:1;
   z-index:99999;
@@ -410,7 +384,6 @@ color:Cornsilk;
   -webkit-transition-delay: 0.2s;
           transition-delay: 0.2s;
 }
-
 
 
 .window .header.menu-opened .burger-container #burger .bar.topBar {
@@ -456,12 +429,10 @@ color:Cornsilk;
 }
 
 .window .content {
-
-    margin-top:50px;
+  margin-top:50px;
   font-family: Arial,Helvetica,sans-serif;
   color:#fff;
   margin-bottom:200px;
-
   text-align: justify;
   overflow: hidden;
 
@@ -475,8 +446,6 @@ color:Cornsilk;
 
 #main-logo {
     width: 100%;
- 
-
     -moz-transition: all 5s ease-out;
     -o-transition: all 5s ease-out;
     -webkit-transition: all 5s ease-out;
@@ -552,7 +521,7 @@ color:Cornsilk;
 	}
 	
 	.service-image {
-				display:none;
+		display:none;
 	}
 }
 
